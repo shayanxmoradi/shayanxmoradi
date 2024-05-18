@@ -45,14 +45,16 @@
 
 - ⚡ Fun fact -> **I love creating—whether it's delicious food or clean code!**
 
+
+
+
+
+[![shayanmoradi's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
+[![shayanmoradi's Stack Overflow | Stats](https://stats.quine.sh/shayanmoradi/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shayanmoradi)
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shayan-moradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-moradi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25113634/shayan-moradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25113634/shayan-moradi" height="30" width="40" /></a>
 </p>
 <p align="center">
-
-
-
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayanxmoradi&show_icons=true&locale=en&layout=compact" alt="shayanxmoradi" /></p>
