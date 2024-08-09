@@ -48,8 +48,7 @@
 
 
 
-
-[![shayanmoradi's GitHub | Stats](https://stats.quine.sh/bap/github?theme=light)](https://quine.sh)
+[![shayanmoradi's GitHub | Stats](https://stats.quira.sh/shayanmoradi/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=shayanmoradi)
 [![shayanmoradi's Stack Overflow | Stats](https://stats.quine.sh/shayanmoradi/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shayanmoradi)
 
 <h3 align="center">Connect with me:</h3>
