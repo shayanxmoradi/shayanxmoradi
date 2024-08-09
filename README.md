@@ -50,6 +50,7 @@
 
 [![shayanmoradi's GitHub | Stats](https://stats.quira.sh/shayanmoradi/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=shayanmoradi)
 [![shayanmoradi's Stack Overflow | Stats](https://stats.quine.sh/shayanmoradi/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shayanmoradi)
+[![shayanmoradi's GitHub | Languages Over Time](https://stats.quira.sh/shayanmoradi/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=shayanmoradi)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
