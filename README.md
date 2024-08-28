@@ -35,7 +35,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanxmoradi" alt="shayanxmoradi" /></a> </p>
 
-- 🔭 I’m currently working on MaktabSharif **bootcamp + Webadmin in TU Dortmund Univercity**
+- 🔭 I’m currently working on MaktabSharif **bootcamp + Webadmin in TU Dortmund University**
 
 - 🌱 I’m currently learning JavaBackend **Spring,Hibernate,Database**
 
