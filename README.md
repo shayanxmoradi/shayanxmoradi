@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Shayan 👋</h1>
 <h3 align="center">Java Backend Developer | Former Android Developer</h3>
-## 🛠️ My Tech Stack
 
 <br>
 <p align="center">
@@ -30,9 +29,9 @@
  
   
   
-  
+  ## 🚀 About Me
+
 </p>
-## 🚀 About Me
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanxmoradi&label=Profile%20views&color=0e75b6&style=flat" alt="shayanxmoradi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanxmoradi" alt="shayanxmoradi" /></a> </p>
@@ -49,9 +48,8 @@
 
 
 
-## 🔗 Connect with Me
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shayan-moradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan-moradi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25113634/shayan-moradi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25113634/shayan-moradi" height="30" width="40" /></a>
