@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shayan</h1>
-<h3 align="center">Android mid-Level Developer- Java Backend Junior Developer</h3>
+<h3 align="center"> Java Backend  Developer, former Android Developer-</h3>
 <br>
 <p align="center">
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?raw=true"></code>
@@ -35,9 +35,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanxmoradi" alt="shayanxmoradi" /></a> </p>
 
-- 🔭 I’m currently working on MaktabSharif **bootcamp + Webadmin in TU Dortmund University**
+- 🔭 I’m currently working on  Further development of a website using Python (Flask), Angular & PostgreSQL in TU Dortmund University**
 
-- 🌱 I’m currently learning JavaBackend **Spring,Hibernate,Database**
+- 🌱 ICurrently enhancing my Java backend skills: **Spring,Hibernate,Database**
 
 - 📫 How to reach me **shayanemoradi@gmaillcom**
 
