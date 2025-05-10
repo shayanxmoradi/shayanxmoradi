@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm shayan</h1>
-<h3 align="center"> Java Backend  Developer, former Android Developer-</h3>
+<h1 align="center">Hi there, I'm Shayan 👋</h1>
+<h3 align="center">Java Backend Developer | Former Android Developer</h3>
+## 🛠️ My Tech Stack
+
 <br>
 <p align="center">
 <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg?raw=true"></code>
@@ -30,7 +32,7 @@
   
   
 </p>
-
+## 🚀 About Me
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanxmoradi&label=Profile%20views&color=0e75b6&style=flat" alt="shayanxmoradi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanxmoradi" alt="shayanxmoradi" /></a> </p>
@@ -47,6 +49,7 @@
 
 
 
+## 🔗 Connect with Me
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
