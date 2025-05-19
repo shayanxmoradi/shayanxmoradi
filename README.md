@@ -29,11 +29,8 @@
  
   
   
-
-</p>
-
-<p align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=shayanxmoradi&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shayanxmoradi&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
   ## 🚀 About Me
