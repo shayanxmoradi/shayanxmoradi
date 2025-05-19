@@ -31,6 +31,7 @@
   
 
 </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shayanxmoradi)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shayanxmoradi&label=Profile%20views&color=0e75b6&style=flat" alt="shayanxmoradi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanxmoradi" alt="shayanxmoradi" /></a> </p>
