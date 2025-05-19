@@ -34,6 +34,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shayanxmoradi)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=shayanxmoradi)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shayanxmoradi&column=8&rank=SSS,SS,S,AAA,AA,A,B,C" />
