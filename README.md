@@ -39,7 +39,7 @@
 
 - 🌱 ICurrently enhancing my Java backend skills: **Spring,Hibernate,Database**
 
-- 📫 How to reach me **shayanemoradi@gmaillcom**
+- 📫 How to reach me **shayan.moradi@tu-dortmund.de**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shayan-moradi/](https://www.linkedin.com/in/shayan-moradi/)
 
