@@ -35,9 +35,9 @@
 
   ## 🚀 About Me
 
-- 🔭 I’m currently working on  Further development of a website using Python (Flask), Angular & PostgreSQL in TU Dortmund University**
+- 🔭 I’m currently working on Backend/Server and Android development at GeoMobile GmbH **
 
-- 🌱 ICurrently enhancing my Java backend skills: **Spring,Hibernate,Database**
+- 🌱 Improving my Android and Backend skills.
 
 - 📫 How to reach me **shayan.moradi@tu-dortmund.de**
 
