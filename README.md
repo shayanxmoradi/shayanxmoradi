@@ -35,7 +35,7 @@
 
   ## 🚀 About Me
 
-- 🔭 I’m currently working on Backend/Server and Android development at GeoMobile GmbH **
+- 🔭 I’m currently working on Backend/Server and Android development at GeoMobile GmbH 
 
 - 🌱 Improving my Android and Backend skills.
 
